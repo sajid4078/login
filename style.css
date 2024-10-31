@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+    font-family: "Space Grotesk", serif;
+}
+.login img{
+    border-radius: 12px;
+    max-width: 100%;
+}
+.login{
+    background-color: #2b2738;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    text-align: center;
+   width: 80%;
+   margin: auto;
+    
+}
+.title h1{
+font-size: 42px;
+font-weight: 500;
+margin-bottom: 30px;
+color: white;
+}
+.title p{
+    color: #818088;
+}
+.input{
+    display: flex;
+    gap: 10px;
+}
+input{
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #3b364c;
+    border-radius: 8px;
+    color: white;
+    
+    border: 0;
+    box-sizing: border-box;
+}
+button{
+    width: 100%;
+    background-color: #6e54b5;
+    color: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border: 0;
+
+}
+
+
+    
+
